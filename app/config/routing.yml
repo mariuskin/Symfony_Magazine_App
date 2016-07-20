@@ -1,0 +1,8 @@
+lg_magazine:
+    resource: "@LGMagazineBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
