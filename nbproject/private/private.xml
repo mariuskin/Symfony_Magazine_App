@@ -3,14 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/config/config.yml</file>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/web/app_dev.php</file>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Resources/views/Default/index.html.twig</file>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Entity/Publication.php</file>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Controller/DefaultController.php</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/Resources/views/publication/new.html.twig</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Form/IssueType.php</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Controller/IssueController.php</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/Resources/views/base.html.twig</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Resources/public/css/custom.css</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/Resources/views/publication/index.html.twig</file>
             <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/src/LG/MagazineBundle/Entity/Issue.php</file>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/config/parameters.yml</file>
-            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/config/config_dev.yml</file>
+            <file>file:/C:/xampp/htdocs/Symfony_Projects/symfony/app/Resources/views/issue/index.html.twig</file>
         </group>
     </open-files>
 </project-private>
